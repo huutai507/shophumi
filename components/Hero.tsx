@@ -89,7 +89,7 @@ export default function Hero() {
                       active:scale-[0.985]
                     "
           >
-            Chia sẻ góp ý để Humi phục vụ bạn tốt hơn tại đây.
+            Chia sẻ góp ý để Humi phục vụ bạn tốt hơn.
           </Link>
         </div>
       </div>
