@@ -32,7 +32,7 @@ export default function Hero() {
         {/* Buttons */}
         <div className="mt-8 w-full flex flex-col gap-4">
           <Link
-            href="https://yourwebsite.com"
+            href="https://www.facebook.com/humibeautyandcosmetics"
             target="_blank"
             className="
                       w-full rounded-xl
