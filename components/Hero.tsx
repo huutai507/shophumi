@@ -58,7 +58,38 @@ export default function Hero() {
                       active:scale-[0.985]
                     "
           >
-            Hỗ trợ tư vấn qua Facebook từ 8h đến 20h hàng ngày!
+            Hỗ trợ tư vấn qua Facebook từ 8h đến 20h hàng ngày.
+          </Link>
+        </div>
+        <div className="mt-4 w-full flex flex-col gap-4">
+          <Link
+            href="https://www.facebook.com/humibeautyandcosmetics"
+            target="_blank"
+            className="
+                      w-full rounded-xl
+                      bg-white/80
+                      py-3.5 px-4
+                      text-base font-medium text-gray-800
+                      shadow-sm
+                      backdrop-blur
+
+                      text-center
+                      break-words
+                      whitespace-normal
+                      leading-relaxed
+
+                      transition-all
+                      duration-300
+                      ease-out
+
+                      hover:-translate-y-1
+                      hover:shadow-lg
+
+                      active:translate-y-0
+                      active:scale-[0.985]
+                    "
+          >
+            Chia sẻ góp ý để Humi phục vụ bạn tốt hơn tại đây.
           </Link>
         </div>
       </div>
