@@ -11,7 +11,8 @@ const locations = [
   {
     name: "Humi An Châu",
     address: "Đang cập nhật",
-    hours: "8:00 AM - 8:00 PM"
+    hours: "8:00 AM - 8:00 PM",
+    mapUrl: "https://maps.app.goo.gl/RF4J5HGziAjfNnfp6"
   },
   {
     name: "Humi Châu Đốc",
@@ -28,7 +29,8 @@ const locations = [
   {
     name: "Humi Tân Châu",
     address: "Đang cập nhật",
-    hours: "8:00 AM - 8:00 PM"
+    hours: "8:00 AM - 8:00 PM",
+    mapUrl: "https://maps.app.goo.gl/qZizpD6WTeKuG1718"
   },
   {
     name: "Humi Phú Mỹ",
@@ -40,11 +42,12 @@ const locations = [
   {
     name: "Humi An Phú",
     address: "Đang cập nhật",
-    hours: "8:00 AM - 8:00 PM"
+    hours: "8:00 AM - 8:00 PM",
+    mapUrl: "https://maps.app.goo.gl/Pehc9DsHjTUbvuHQ8"
   },
   {
     name: "Humi Thạnh Mỹ Tây",
-    address: "Đang cập nhật",
+    address: "Đối diện trường THPT Thạnh Mỹ Tây, Châu Phú, AG",
     hours: "8:00 AM - 6:30 PM"
   },
   {
