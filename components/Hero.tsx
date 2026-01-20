@@ -58,7 +58,7 @@ export default function Hero() {
                       active:scale-[0.985]
                     "
           >
-            HUMI hỗ trợ tư vấn qua Facebook từ 8h–20h mỗi ngày 💬
+            Hỗ trợ tư vấn qua Facebook từ 8h đến 20h hàng ngày.
           </Link>
         </div>
         <div className="mt-4 w-full flex flex-col gap-4">
@@ -89,7 +89,7 @@ export default function Hero() {
                       active:scale-[0.985]
                     "
           >
-            HUMI rất mong nhận được góp ý của bạn để phục vụ tốt hơn mỗi ngày 💕
+            Chia sẻ góp ý để Humi phục vụ bạn tốt hơn.
           </Link>
         </div>
       </div>
