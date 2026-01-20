@@ -24,7 +24,7 @@ export default function Hero() {
 
         {/* Description */}
         <p className="mt-1 text-sm font-semibold text-gray-600 leading-relaxed">
-          Shop mỹ phẩm & phụ kiện
+          Shop mỹ phẩm, phụ kiện
           <br />
           Giá học sinh, sinh viên
         </p>
@@ -58,7 +58,7 @@ export default function Hero() {
                       active:scale-[0.985]
                     "
           >
-            Hỗ trợ tư vấn qua Facebook từ 8h đến 20h hàng ngày.
+            HUMI hỗ trợ tư vấn qua Facebook từ 8h–20h mỗi ngày 💬
           </Link>
         </div>
         <div className="mt-4 w-full flex flex-col gap-4">
@@ -89,7 +89,7 @@ export default function Hero() {
                       active:scale-[0.985]
                     "
           >
-            Chia sẻ góp ý để Humi phục vụ bạn tốt hơn.
+            HUMI rất mong nhận được góp ý của bạn để phục vụ tốt hơn mỗi ngày 💕
           </Link>
         </div>
       </div>
