@@ -61,7 +61,7 @@ export default function Hero() {
             Hỗ trợ tư vấn qua Facebook từ 8h đến 20h hàng ngày.
           </Link>
         </div>
-        <div className="mt-8 w-full flex flex-col gap-4">
+        <div className="mt-4 w-full flex flex-col gap-4">
           <Link
             href="https://zalo.me/g/butsyz719"
             target="_blank"
