@@ -26,7 +26,7 @@ export default function Hero() {
         </p>
         {/* Description */}
         <p className="mt-4 text-sm font-semibold text-red-500 leading-relaxed">
-          KHAI CHƯƠNG CHI NHÁNH MỚI
+          KHAI TRƯƠNG CHI NHÁNH MỚI
           <br />
           CẦN ĐĂNG AN GIANG
           <br />
