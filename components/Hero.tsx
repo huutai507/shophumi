@@ -28,7 +28,7 @@ export default function Hero() {
         <p className="mt-4 text-sm font-semibold text-red-500 leading-relaxed">
           KHAI TRƯƠNG CHI NHÁNH MỚI
           <br />
-          CẦN ĐĂNG AN GIANG
+          CẦN ĐĂNG,AN GIANG
           <br />
           NGÀY 27,28,29 THÁNG 3 ĐẾN SHOP
           <br /> CÓ QUÀ CHO MỌI NGƯỜI NHA!
