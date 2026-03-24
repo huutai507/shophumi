@@ -21,7 +21,9 @@ export default function Hero() {
         <h1 className="mt-4 text-xl font-semibold text-gray-800">
           HUMI Beauty
         </h1>
-
+        <p className="mt-1 text-sm font-semibold text-gray-600 leading-relaxed">
+          Shop mỹ phẩm, phụ kiện
+        </p>
         {/* Description */}
         <p className="mt-4 text-sm font-semibold text-red-500 leading-relaxed">
           KHAI CHƯƠNG CHI NHÁNH MỚI
