@@ -31,7 +31,7 @@ export default function Hero() {
           CẦN ĐĂNG,AN GIANG
           <br />
           NGÀY 27,28,29 THÁNG 3 ĐẾN SHOP
-          <br /> CÓ QUÀ CHO MỌI NGƯỜI NHA!
+          <br /> LÀ CÓ QUÀ CHO MỌI NGƯỜI NHA!
         </p>
         {/* <p className="mt-1 text-sm font-semibold text-gray-600 leading-relaxed">
           Shop mỹ phẩm, phụ kiện
