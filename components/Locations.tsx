@@ -16,7 +16,7 @@ const locations = [
   },
   {
     name: "Humi Cần Đăng",
-    address: "",
+    address: "Đang cập nhật",
     hours: "8:00 AM - 8:00 PM",
     mapUrl: ""
   },
