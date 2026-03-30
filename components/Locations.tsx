@@ -15,6 +15,12 @@ const locations = [
     mapUrl: "https://maps.app.goo.gl/RF4J5HGziAjfNnfp6"
   },
   {
+    name: "Humi Cần Đăng",
+    address: "",
+    hours: "8:00 AM - 8:00 PM",
+    mapUrl: ""
+  },
+  {
     name: "Humi Châu Đốc",
     address: "Ngay cổng chợ Phường B, Thủ Khoa Huân, Châu Đốc, AG",
     hours: "8:00 AM - 8:00 PM",
@@ -65,7 +71,7 @@ const Locations = () => {
       <div className="mx-auto max-w-sm">
         <div className="text-center mb-6">
           <h2 className="text-2xl font-semibold text-gray-800">
-            9 chi nhánh Humi tại An Giang
+            10 chi nhánh Humi tại An Giang
           </h2>
           <p className="text-gray-600 mt-1 text-sm">
             Chạm vào chi nhánh để xem đường đi
