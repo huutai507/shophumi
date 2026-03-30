@@ -25,14 +25,7 @@ export default function Hero() {
           Shop mỹ phẩm, phụ kiện
         </p>
         {/* Description */}
-        <p className="mt-4 text-sm font-semibold text-red-500 leading-relaxed">
-          KHAI TRƯƠNG CHI NHÁNH MỚI
-          <br />
-          CẦN ĐĂNG,AN GIANG
-          <br />
-          NGÀY 27,28,29 THÁNG 3 ĐẾN SHOP
-          <br /> LÀ CÓ QUÀ CHO MỌI NGƯỜI NHA!
-        </p>
+
         {/* <p className="mt-1 text-sm font-semibold text-gray-600 leading-relaxed">
           Shop mỹ phẩm, phụ kiện
           <br />
