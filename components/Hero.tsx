@@ -25,19 +25,19 @@ export default function Hero() {
           Shop mỹ phẩm, phụ kiện
         </p> */}
         {/* Description */}
-        <p className="mt-4 text-sm font-semibold text-red-500 leading-relaxed">
+        {/* <p className="mt-4 text-sm font-semibold text-red-500 leading-relaxed">
           KHAI TRƯƠNG CHI NHÁNH
           <br />
           TRI TÔN - AN GIANG
           <br />
           NGÀY 9,10,11 THÁNG 4 ĐẾN SHOP
           <br /> LÀ CÓ QUÀ CHO MỌI NGƯỜI NHA!!!
-        </p>
-        {/* <p className="mt-1 text-sm font-semibold text-gray-600 leading-relaxed">
+        </p> */}
+        <p className="mt-1 text-sm font-semibold text-gray-600 leading-relaxed">
           Shop mỹ phẩm, phụ kiện
           <br />
           Giá học sinh, sinh viên
-        </p> */}
+        </p>
 
         {/* Buttons */}
         <div className="mt-4 w-full flex flex-col gap-4">
