@@ -16,15 +16,15 @@ const locations = [
   },
   {
     name: "Humi Cần Đăng",
-    address: "Đang cập nhật",
+    address: "Đối diện cây xăng Huy Dũng, Cần Đăng, AG",
     hours: "8:00 AM - 8:00 PM",
-    mapUrl: ""
+    mapUrl: "https://maps.app.goo.gl/9Rh92vDeRujzPYj68"
   },
   {
     name: "Humi Tri Tôn",
-    address: "Đang cập nhật",
+    address: "105 Nguyễn Trãi, Khóm 4, Tri Tôn, AG",
     hours: "8:00 AM - 8:00 PM",
-    mapUrl: ""
+    mapUrl: "https://maps.app.goo.gl/HgLZYR111RyixbX68"
   },
   {
     name: "Humi Châu Đốc",
