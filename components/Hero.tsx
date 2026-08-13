@@ -73,7 +73,7 @@ export default function Hero() {
         </div>
         <div className="mt-4 w-full flex flex-col gap-4">
           <Link
-            href="https://zalo.me/g/butsyz719"
+            href="https://www.facebook.com/groups/1956446451465439"
             target="_blank"
             className="
                       w-full rounded-xl
@@ -99,7 +99,7 @@ export default function Hero() {
                       active:scale-[0.985]
                     "
           >
-            Tham gia nhóm Zalo báo giá
+            Tham gia nhóm săn sale
           </Link>
         </div>
         <div className="mt-4 w-full flex flex-col gap-4">
