@@ -79,9 +79,9 @@ const Locations = () => {
           <h2 className="text-2xl font-semibold text-gray-800">
             11 chi nhánh Humi tại An Giang
           </h2>
-          <p className="text-gray-600 mt-1 text-sm">
+          {/* <p className="text-gray-600 mt-1 text-sm">
             Chạm vào chi nhánh để xem đường đi
-          </p>
+          </p> */}
         </div>
 
         <div className="flex flex-col gap-4">
