@@ -3,6 +3,12 @@ import { MapPinIcon } from "@heroicons/react/24/outline";
 
 const locations = [
   {
+    name: "Humi Tịnh Biên",
+    address: "Đang cập nhật",
+    hours: "8:00 AM - 8:00 PM",
+    mapUrl: ""
+  },
+  {
     name: "Humi Long Xuyên",
     address: "Gần trường Nguyễn Hiền, Bình Khánh, Long Xuyên, AG",
     hours: "8:00 AM - 8:00 PM",
@@ -60,13 +66,13 @@ const locations = [
   {
     name: "Humi Thạnh Mỹ Tây",
     address: "Đối diện trường THPT Thạnh Mỹ Tây, Châu Phú, AG",
-    hours: "8:00 AM - 6:30 PM",
+    hours: "8:00 AM - 7:00 PM",
     mapUrl: "https://maps.app.goo.gl/o2ZxKAnHX48AyKpJ7"
   },
   {
     name: "Humi Mỹ Đức",
     address: "Mỹ Thiện, Mỹ Đức, Châu Phú, AG",
-    hours: "8:00 AM - 6:30 PM",
+    hours: "8:00 AM - 7:00 PM",
     mapUrl: "https://maps.app.goo.gl/nUJLNHHKnTBMpkXC8"
   }
 ];
@@ -77,7 +83,7 @@ const Locations = () => {
       <div className="mx-auto max-w-sm">
         <div className="text-center mb-6">
           <h2 className="text-2xl font-semibold text-gray-800">
-            11 chi nhánh Humi tại An Giang
+            12 chi nhánh Humi tại An Giang
           </h2>
           {/* <p className="text-gray-600 mt-1 text-sm">
             Chạm vào chi nhánh để xem đường đi

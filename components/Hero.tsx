@@ -38,7 +38,6 @@ export default function Hero() {
           <br />
           Giá học sinh, sinh viên
         </p>
-
         {/* Buttons */}
         <div className="mt-4 w-full flex flex-col gap-4">
           <Link
@@ -68,7 +67,7 @@ export default function Hero() {
                       active:scale-[0.985]
                     "
           >
-            Hỗ trợ tư vấn qua Facebook từ 8h đến 20h hàng ngày.
+            Hỗ trợ tư vấn, mua hàng qua Facebook từ 8h đến 20h hàng ngày.
           </Link>
         </div>
         <div className="mt-4 w-full flex flex-col gap-4">
